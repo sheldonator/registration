@@ -1,0 +1,23 @@
+﻿@model RegistrationViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+<div>
+    <form method="POST" asp-action="Validate">
+        <h1>register</h1>
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username" placeholder="Pick a username" />
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" />
+        <input type="submit" />
+    </form>
+    
+    @if (Model?.PasswordStrengthResult != null)
+    {
+    <div>
+        <p>this password scores @Model.PasswordStrengthResult.Score</p>
+        <p>it would take @Model.PasswordStrengthResult.CrackTimeDisplay to crack</p>
+    </div>
+    }
+</div>
+
