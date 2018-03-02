@@ -17,6 +17,10 @@
     <div>
         <p>this password scores @Model.PasswordStrengthResult.Score</p>
         <p>it would take @Model.PasswordStrengthResult.CrackTimeDisplay to crack</p>
+        @if (Model.BreachCount != null)
+        {
+            <p>this password has appeared in @Model.BreachCount breaches</p>
+        }
     </div>
     }
 </div>
