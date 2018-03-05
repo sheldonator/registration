@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -31,7 +32,9 @@ namespace registration
                     options.ViewLocationFormats.Clear();
                     options.ViewLocationFormats.Add("/Features/{1}/Views/{0}.cshtml");
                     options.ViewLocationFormats.Add("/Shared/Views/{0}.cshtml");
-                });
+                })
+                .AddFluentValidation(options =>
+                    options.RegisterValidatorsFromAssemblyContaining<Startup>()); ;
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

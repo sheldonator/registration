@@ -1,5 +1,8 @@
-﻿using Microsoft.AspNetCore;
+﻿using System;
+using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
+using Serilog;
+using Serilog.Events;
 
 namespace registration
 {
@@ -11,8 +14,26 @@ namespace registration
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
+            ConfigureWebHostBuilder(args)
                 .Build();
+
+        public static IWebHostBuilder ConfigureWebHostBuilder(string[] args)
+        {
+            return WebHost.CreateDefaultBuilder(args)
+                .UseSerilog(ConfigureLogging)
+                .UseStartup<Startup>();
+        }
+
+        private static void ConfigureLogging(WebHostBuilderContext ctx, LoggerConfiguration config)
+        {
+            config.WriteTo.Async(a =>
+            {
+                a.File("Registration-[TODAY]".Replace("[TODAY]", DateTime.Now.Date.ToString("yyyy-MM-dd")),
+                        outputTemplate: "{Timestamp:HH:mm:ss} [{Level}] CorrelationId: {CorrelationId} Message: {Message}{NewLine}{Exception}")
+                    .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
+                    .MinimumLevel.Override("System", LogEventLevel.Warning)
+                    .Enrich.FromLogContext();
+            });
+        }
     }
 }

@@ -22,10 +22,10 @@ namespace registration.Features.Registration
         }
         
         [HttpPost]
-        public async Task<IActionResult> Validate(string username, string password)
+        public async Task<IActionResult> Validate(RegistrationForm request)
         {
-            var result = Zxcvbn.Zxcvbn.MatchPassword(password, new List<string>{username});
-            var count = await _ppService.PwnedPasswordCheck(password.Sha1Hash());
+            var result = Zxcvbn.Zxcvbn.MatchPassword(request.Password, new List<string>{ request.Username });
+            var count = await _ppService.PwnedPasswordCheck(request.Password.Sha1Hash());
             return View("Index", new RegistrationViewModel {PasswordStrengthResult = result, BreachCount = count});
         }
     }
