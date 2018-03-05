@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using registration.Models;
+using registration.Shared.Models;
 
-namespace registration.Controllers
+namespace registration.Features.Home
 {
     public class HomeController : Controller
     {

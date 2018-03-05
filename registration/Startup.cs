@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using registration.Infrastructure.Services;
 
 namespace registration
 {
@@ -17,6 +18,8 @@ namespace registration
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<PwnedPasswordsService>();
+
             services.AddMvc()
                 .AddRazorOptions(options =>
                 {
@@ -26,8 +29,8 @@ namespace registration
                     // {3} - Feature Name
                     // Replace normal view location entirely
                     options.ViewLocationFormats.Clear();
-                    options.ViewLocationFormats.Add("/Views/{1}/{0}.cshtml");
-                    options.ViewLocationFormats.Add("/Views/Shared/{0}.cshtml");
+                    options.ViewLocationFormats.Add("/Features/{1}/Views/{0}.cshtml");
+                    options.ViewLocationFormats.Add("/Shared/Views/{0}.cshtml");
                 });
         }
 

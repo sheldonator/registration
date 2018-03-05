@@ -1,6 +1,4 @@
-using System;
-
-namespace registration.Models
+namespace registration.Shared.Models
 {
     public class ErrorViewModel
     {

@@ -1,6 +1,6 @@
 ﻿using Zxcvbn;
 
-namespace registration.Models
+namespace registration.Features.Registration.Models
 {
     public class RegistrationViewModel
     {
