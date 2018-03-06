@@ -1,0 +1,536 @@
+08:32:52 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+08:32:53 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+08:32:54 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+08:32:58 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+08:32:59 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 4872.5753ms
+08:32:59 [Information] CorrelationId:  Message: Request finished in 5642.0049ms 200 text/html; charset=utf-8
+08:32:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA  
+08:32:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/css/site.css  
+08:32:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/js/bootstrap.js  
+08:32:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/jquery/dist/jquery.js  
+08:32:59 [Information] CorrelationId:  Message: The file "/lib/jquery/dist/jquery.js" was not modified
+08:32:59 [Information] CorrelationId:  Message: The file "/js/site.js" was not modified
+08:32:59 [Information] CorrelationId:  Message: The file "/lib/bootstrap/dist/js/bootstrap.js" was not modified
+08:32:59 [Information] CorrelationId:  Message: The file "/css/site.css" was not modified
+08:32:59 [Information] CorrelationId:  Message: Request finished in 7.6872ms 304 text/css
+08:32:59 [Information] CorrelationId:  Message: Request finished in 7.1709ms 304 application/javascript
+08:32:59 [Information] CorrelationId:  Message: Request finished in 7.2273ms 304 application/javascript
+08:32:59 [Information] CorrelationId:  Message: Request finished in 7.6783ms 304 application/javascript
+08:32:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/css/bootstrap.css  
+08:32:59 [Information] CorrelationId:  Message: The file "/lib/bootstrap/dist/css/bootstrap.css" was not modified
+08:32:59 [Information] CorrelationId:  Message: Request finished in 0.6035ms 304 text/css
+08:33:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+08:33:02 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+08:33:03 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+08:33:03 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1230.0172ms
+08:33:03 [Information] CorrelationId:  Message: Request finished in 1232.2735ms 200 text/html; charset=utf-8
+08:33:07 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/css/bootstrap.css.map  
+08:33:07 [Information] CorrelationId:  Message: The file "/lib/bootstrap/dist/css/bootstrap.css.map" was not modified
+08:33:07 [Information] CorrelationId:  Message: Request finished in 0.3501ms 304 text/plain
+08:36:06 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+08:36:07 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+08:36:07 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+08:36:10 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+08:36:11 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3826.5118ms
+08:36:11 [Information] CorrelationId:  Message: Request finished in 4364.7533ms 200 text/html; charset=utf-8
+08:36:13 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+08:36:13 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+08:36:14 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+08:36:14 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1078.3875ms
+08:36:14 [Information] CorrelationId:  Message: Request finished in 1080.7208ms 200 text/html; charset=utf-8
+08:38:11 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+08:38:11 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+08:38:12 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+08:38:15 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+08:38:16 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3767.7521ms
+08:38:16 [Information] CorrelationId:  Message: Request finished in 4302.7831ms 200 text/html; charset=utf-8
+08:38:18 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+08:38:18 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+08:38:19 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+08:38:19 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1098.3376ms
+08:38:19 [Information] CorrelationId:  Message: Request finished in 1101.9442ms 200 text/html; charset=utf-8
+08:45:54 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+08:45:54 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+08:45:55 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+08:45:58 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+08:45:59 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 4079.3158ms
+08:45:59 [Information] CorrelationId:  Message: Request finished in 4602.6177ms 200 text/html; charset=utf-8
+08:46:18 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+08:46:18 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+08:46:18 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+08:46:19 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1216.8417ms
+08:46:19 [Information] CorrelationId:  Message: Request finished in 1219.4846ms 200 text/html; charset=utf-8
+08:56:01 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+08:56:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+08:56:02 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+08:56:05 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+08:56:06 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3818.538ms
+08:56:06 [Information] CorrelationId:  Message: Request finished in 4352.2094ms 200 text/html; charset=utf-8
+08:56:08 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+08:56:08 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+08:56:08 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+08:56:09 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1221.6454ms
+08:56:09 [Information] CorrelationId:  Message: Request finished in 1224.7163ms 200 text/html; charset=utf-8
+08:56:42 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+08:56:43 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+08:56:43 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+08:56:46 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+08:56:47 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3765.3877ms
+08:56:47 [Information] CorrelationId:  Message: Request finished in 4299.8862ms 200 text/html; charset=utf-8
+08:56:49 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+08:56:49 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+08:56:49 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+08:56:50 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1207.0462ms
+08:56:50 [Information] CorrelationId:  Message: Request finished in 1209.108ms 200 text/html; charset=utf-8
+09:00:45 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:00:46 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:00:47 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:00:50 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:00:50 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3850.2372ms
+09:00:50 [Information] CorrelationId:  Message: Request finished in 4544.2523ms 200 text/html; charset=utf-8
+09:01:05 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:01:05 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:01:05 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:01:06 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1164.6417ms
+09:01:06 [Information] CorrelationId:  Message: Request finished in 1166.9866ms 200 text/html; charset=utf-8
+09:15:08 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:15:09 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:15:09 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:15:12 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:15:13 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3917.6355ms
+09:15:13 [Information] CorrelationId:  Message: Request finished in 4490.3673ms 200 text/html; charset=utf-8
+09:15:15 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:15:15 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:15:16 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:15:16 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1203.4841ms
+09:15:16 [Information] CorrelationId:  Message: Request finished in 1205.8068ms 200 text/html; charset=utf-8
+09:15:45 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:15:45 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:15:45 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:15:45 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 22.2132ms
+09:15:45 [Information] CorrelationId:  Message: Request finished in 22.7734ms 200 text/html; charset=utf-8
+09:16:58 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:16:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:16:59 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:17:03 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:17:04 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 4114.2059ms
+09:17:04 [Information] CorrelationId:  Message: Request finished in 4668.8397ms 200 text/html; charset=utf-8
+09:17:05 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:17:05 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:17:06 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:17:06 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1124.0564ms
+09:17:06 [Information] CorrelationId:  Message: Request finished in 1126.5919ms 200 text/html; charset=utf-8
+09:18:18 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:18:18 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:18:19 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:18:22 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:18:23 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3879.1472ms
+09:18:23 [Information] CorrelationId:  Message: Request finished in 4435.9121ms 200 text/html; charset=utf-8
+09:18:31 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:18:31 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:18:31 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:18:31 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 1.5723ms
+09:18:31 [Information] CorrelationId:  Message: Request finished in 2.4245ms 200 text/html; charset=utf-8
+09:18:32 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:18:32 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:18:33 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:18:34 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1148.711ms
+09:18:34 [Information] CorrelationId:  Message: Request finished in 1150.5046ms 200 text/html; charset=utf-8
+09:21:15 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:21:16 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:21:17 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:21:20 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:21:21 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 4239.7771ms
+09:21:21 [Information] CorrelationId:  Message: Request finished in 4767.1132ms 200 text/html; charset=utf-8
+09:21:37 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:21:37 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:21:37 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:21:38 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1130.3806ms
+09:21:38 [Information] CorrelationId:  Message: Request finished in 1132.5956ms 200 text/html; charset=utf-8
+09:22:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:22:02 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:22:02 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:22:02 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 12.7765ms
+09:22:02 [Information] CorrelationId:  Message: Request finished in 13.9563ms 200 text/html; charset=utf-8
+09:22:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/css/bootstrap.css  
+09:22:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/jquery/dist/jquery.js  
+09:22:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/css/site.css  
+09:22:02 [Information] CorrelationId:  Message: Sending file. Request path: '"/css/site.css"'. Physical path: '"D:\private\github\registration\registration\wwwroot\css\site.css"'
+09:22:02 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\jquery\dist\jquery.js"'
+09:22:02 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+09:22:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA  
+09:22:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/js/bootstrap.js  
+09:22:02 [Information] CorrelationId:  Message: Sending file. Request path: '"/js/site.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\js\site.js"'
+09:22:02 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+09:22:02 [Information] CorrelationId:  Message: Request finished in 45.321ms 200 application/javascript
+09:22:02 [Information] CorrelationId:  Message: Request finished in 55.4678ms 200 text/css
+09:22:02 [Information] CorrelationId:  Message: Request finished in 53.8701ms 200 application/javascript
+09:22:02 [Information] CorrelationId:  Message: Request finished in 77.4507ms 200 text/css
+09:22:02 [Information] CorrelationId:  Message: Request finished in 77.092ms 200 application/javascript
+09:23:26 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:23:27 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:23:27 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:23:31 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:23:31 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 4242.2104ms
+09:23:31 [Information] CorrelationId:  Message: Request finished in 4770.6564ms 200 text/html; charset=utf-8
+09:23:33 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:23:33 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:23:34 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:23:34 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1171.1395ms
+09:23:34 [Information] CorrelationId:  Message: Request finished in 1173.225ms 200 text/html; charset=utf-8
+09:24:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:24:02 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:24:02 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:24:02 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 45.8411ms
+09:24:02 [Information] CorrelationId:  Message: Request finished in 47.0311ms 200 text/html; charset=utf-8
+09:24:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/css/bootstrap.css  
+09:24:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/jquery/dist/jquery.js  
+09:24:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/css/site.css  
+09:24:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA  
+09:24:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/js/bootstrap.js  
+09:24:02 [Information] CorrelationId:  Message: Sending file. Request path: '"/css/site.css"'. Physical path: '"D:\private\github\registration\registration\wwwroot\css\site.css"'
+09:24:02 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\jquery\dist\jquery.js"'
+09:24:02 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+09:24:02 [Information] CorrelationId:  Message: Sending file. Request path: '"/js/site.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\js\site.js"'
+09:24:02 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+09:24:02 [Information] CorrelationId:  Message: Request finished in 46.4848ms 200 text/css
+09:24:02 [Information] CorrelationId:  Message: Request finished in 46.4415ms 200 application/javascript
+09:24:02 [Information] CorrelationId:  Message: Request finished in 46.1569ms 200 application/javascript
+09:24:02 [Information] CorrelationId:  Message: Request finished in 67.7789ms 200 text/css
+09:24:02 [Information] CorrelationId:  Message: Request finished in 68.4141ms 200 application/javascript
+09:24:59 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:25:00 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:25:01 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:25:04 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:25:05 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 4054.9298ms
+09:25:05 [Information] CorrelationId:  Message: Request finished in 4633.6198ms 200 text/html; charset=utf-8
+09:25:10 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:25:10 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:25:11 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:25:12 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1384.5263ms
+09:25:12 [Information] CorrelationId:  Message: Request finished in 1387.9202ms 200 text/html; charset=utf-8
+09:25:23 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:25:23 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:25:23 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:25:23 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 8.5998ms
+09:25:23 [Information] CorrelationId:  Message: Request finished in 10.1482ms 200 text/html; charset=utf-8
+09:25:23 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/css/bootstrap.css  
+09:25:23 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/jquery/dist/jquery.js  
+09:25:23 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/css/site.css  
+09:25:23 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA  
+09:25:23 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/js/bootstrap.js  
+09:25:23 [Information] CorrelationId:  Message: Sending file. Request path: '"/js/site.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\js\site.js"'
+09:25:23 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+09:25:23 [Information] CorrelationId:  Message: Sending file. Request path: '"/css/site.css"'. Physical path: '"D:\private\github\registration\registration\wwwroot\css\site.css"'
+09:25:23 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\jquery\dist\jquery.js"'
+09:25:23 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+09:25:23 [Information] CorrelationId:  Message: Request finished in 7.0756ms 200 application/javascript
+09:25:23 [Information] CorrelationId:  Message: Request finished in 23.3336ms 200 text/css
+09:25:23 [Information] CorrelationId:  Message: Request finished in 26.8492ms 200 text/css
+09:25:23 [Information] CorrelationId:  Message: Request finished in 23.347ms 200 application/javascript
+09:25:23 [Information] CorrelationId:  Message: Request finished in 21.903ms 200 application/javascript
+09:25:56 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:25:56 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:25:57 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:26:00 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:26:01 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3948.6125ms
+09:26:01 [Information] CorrelationId:  Message: Request finished in 4481.577ms 200 text/html; charset=utf-8
+09:26:02 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:26:02 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:26:03 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:26:04 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1160.9131ms
+09:26:04 [Information] CorrelationId:  Message: Request finished in 1163.1463ms 200 text/html; charset=utf-8
+09:26:06 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:26:06 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:26:06 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:26:06 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1.9974ms
+09:26:06 [Information] CorrelationId:  Message: Request finished in 2.7195ms 200 text/html; charset=utf-8
+09:26:06 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/css/bootstrap.css  
+09:26:06 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/jquery/dist/jquery.js  
+09:26:06 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/css/site.css  
+09:26:06 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+09:26:06 [Information] CorrelationId:  Message: Sending file. Request path: '"/css/site.css"'. Physical path: '"D:\private\github\registration\registration\wwwroot\css\site.css"'
+09:26:06 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\jquery\dist\jquery.js"'
+09:26:06 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/js/bootstrap.js  
+09:26:06 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+09:26:06 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA  
+09:26:06 [Information] CorrelationId:  Message: Sending file. Request path: '"/js/site.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\js\site.js"'
+09:26:06 [Information] CorrelationId:  Message: Request finished in 4.9251ms 200 text/css
+09:26:06 [Information] CorrelationId:  Message: Request finished in 83.0889ms 200 application/javascript
+09:26:06 [Information] CorrelationId:  Message: Request finished in 82.1555ms 200 application/javascript
+09:26:06 [Information] CorrelationId:  Message: Request finished in 81.6078ms 200 application/javascript
+09:26:06 [Information] CorrelationId:  Message: Request finished in 110.3806ms 200 text/css
+09:26:45 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:26:45 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:26:45 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:26:45 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 3.3804ms
+09:26:45 [Information] CorrelationId:  Message: Request finished in 4.9225ms 200 text/html; charset=utf-8
+09:27:27 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:27:28 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:27:29 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:27:32 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:27:32 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3894.6146ms
+09:27:32 [Information] CorrelationId:  Message: Request finished in 4433.1663ms 200 text/html; charset=utf-8
+09:27:37 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:27:37 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:27:37 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:27:38 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1159.5389ms
+09:27:38 [Information] CorrelationId:  Message: Request finished in 1161.8314ms 200 text/html; charset=utf-8
+09:27:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:27:59 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:27:59 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:27:59 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 20.2505ms
+09:27:59 [Information] CorrelationId:  Message: Request finished in 20.8316ms 200 text/html; charset=utf-8
+09:27:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/css/bootstrap.css  
+09:27:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/css/site.css  
+09:27:59 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.css"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\bootstrap\dist\css\bootstrap.css"'
+09:27:59 [Information] CorrelationId:  Message: Sending file. Request path: '"/css/site.css"'. Physical path: '"D:\private\github\registration\registration\wwwroot\css\site.css"'
+09:27:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/jquery/dist/jquery.js  
+09:27:59 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\jquery\dist\jquery.js"'
+09:27:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/lib/bootstrap/dist/js/bootstrap.js  
+09:27:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA  
+09:27:59 [Information] CorrelationId:  Message: Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\lib\bootstrap\dist\js\bootstrap.js"'
+09:27:59 [Information] CorrelationId:  Message: Sending file. Request path: '"/js/site.js"'. Physical path: '"D:\private\github\registration\registration\wwwroot\js\site.js"'
+09:27:59 [Information] CorrelationId:  Message: Request finished in 6.2771ms 200 application/javascript
+09:27:59 [Information] CorrelationId:  Message: Request finished in 29.6546ms 200 text/css
+09:27:59 [Information] CorrelationId:  Message: Request finished in 30.9077ms 200 application/javascript
+09:27:59 [Information] CorrelationId:  Message: Request finished in 50.1732ms 200 text/css
+09:27:59 [Information] CorrelationId:  Message: Request finished in 51.8553ms 200 application/javascript
+09:28:15 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:28:15 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:28:15 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:28:15 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1.3773ms
+09:28:15 [Information] CorrelationId:  Message: Request finished in 1.8568ms 200 text/html; charset=utf-8
+09:42:20 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:42:21 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:42:21 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:42:24 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:42:25 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3865.1204ms
+09:42:25 [Information] CorrelationId:  Message: Request finished in 4430.3894ms 200 text/html; charset=utf-8
+09:42:27 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:42:27 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:42:27 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:42:28 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1193.1639ms
+09:42:28 [Information] CorrelationId:  Message: Request finished in 1195.4251ms 200 text/html; charset=utf-8
+09:43:58 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:43:59 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:44:00 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:44:03 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:44:04 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 4022.3782ms
+09:44:04 [Information] CorrelationId:  Message: Request finished in 4598.4059ms 200 text/html; charset=utf-8
+09:44:05 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:44:05 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:44:06 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:44:06 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1309.0311ms
+09:44:06 [Information] CorrelationId:  Message: Request finished in 1312.22ms 200 text/html; charset=utf-8
+09:44:17 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:44:17 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:44:17 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:44:17 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 2.1528ms
+09:44:17 [Information] CorrelationId:  Message: Request finished in 2.5838ms 200 text/html; charset=utf-8
+09:45:35 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:45:36 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:45:37 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:45:40 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:45:41 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3860.2295ms
+09:45:41 [Information] CorrelationId:  Message: Request finished in 4703.7491ms 200 text/html; charset=utf-8
+09:46:35 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:46:35 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:46:36 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:46:36 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1126.5867ms
+09:46:36 [Information] CorrelationId:  Message: Request finished in 1129.1221ms 200 text/html; charset=utf-8
+09:47:17 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:47:17 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:47:18 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:47:21 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:47:22 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3690.5981ms
+09:47:22 [Information] CorrelationId:  Message: Request finished in 4235.7264ms 200 text/html; charset=utf-8
+09:47:31 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:47:31 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:47:32 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:47:32 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1139.1033ms
+09:47:32 [Information] CorrelationId:  Message: Request finished in 1141.3493ms 200 text/html; charset=utf-8
+09:47:40 [Information] CorrelationId:  Message: Request starting HTTP/1.1 POST http://localhost:62553/Registration/Validate application/x-www-form-urlencoded 200
+09:47:40 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Validate (registration)" with arguments (["registration.Features.Registration.Models.RegistrationForm"]) - ModelState is Invalid
+09:47:40 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Validate (registration)" in 446.553ms
+09:47:40 [Error] CorrelationId:  Message: An unhandled exception has occurred while executing the request
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Zxcvbn.Matcher.DictionaryMatcher.<>c.<.ctor>b__4_1(String w)
+   at System.Linq.Enumerable.SelectListIterator`2.MoveNext()
+   at Zxcvbn.Matcher.DictionaryMatcher.BuildRankedDictionary(IEnumerable`1 wordList)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at Zxcvbn.Matcher.DictionaryMatcher.<>c__DisplayClass5_0.<MatchPassword>b__3(<>f__AnonymousType1`2 <>h__TransparentIdentifier1)
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.ToList()
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Zxcvbn.Matcher.DictionaryMatcher.MatchPassword(String password)
+   at Zxcvbn.Zxcvbn.EvaluatePassword(String password, IEnumerable`1 userInputs)
+   at registration.Features.Registration.RegistrationController.<Validate>d__3.MoveNext() in D:\private\github\registration\registration\Features\Registration\RegistrationController.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__12.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeInnerFilterAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeNextResourceFilter>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeFilterPipelineAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeAsync>d__15.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+09:47:41 [Information] CorrelationId:  Message: Request finished in 648.0132ms 500 text/html; charset=utf-8
+09:48:27 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:48:28 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:48:28 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:48:31 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:48:32 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3723.2863ms
+09:48:32 [Information] CorrelationId:  Message: Request finished in 4272.3572ms 200 text/html; charset=utf-8
+09:48:46 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:48:46 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:48:46 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:48:47 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1059.4881ms
+09:48:47 [Information] CorrelationId:  Message: Request finished in 1061.7997ms 200 text/html; charset=utf-8
+09:49:51 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:49:52 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:49:53 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:49:56 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:49:57 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3923.3321ms
+09:49:57 [Information] CorrelationId:  Message: Request finished in 4445.7188ms 200 text/html; charset=utf-8
+09:53:09 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:53:09 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:53:10 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:53:11 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1378.9768ms
+09:53:11 [Information] CorrelationId:  Message: Request finished in 1401.143ms 200 text/html; charset=utf-8
+09:58:44 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+09:58:45 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+09:58:45 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+09:58:48 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+09:58:49 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3863.5885ms
+09:58:49 [Information] CorrelationId:  Message: Request finished in 4461.0588ms 200 text/html; charset=utf-8
+09:59:27 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:59:27 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:59:28 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:59:30 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 2290.1376ms
+09:59:30 [Information] CorrelationId:  Message: Request finished in 2292.9271ms 200 text/html; charset=utf-8
+09:59:38 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+09:59:38 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+09:59:38 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+09:59:38 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 8.9639ms
+09:59:38 [Information] CorrelationId:  Message: Request finished in 10.1958ms 200 text/html; charset=utf-8
+10:08:36 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+10:08:37 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+10:08:38 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+10:08:40 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+10:08:41 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3747.6666ms
+10:08:41 [Information] CorrelationId:  Message: Request finished in 4265.6006ms 200 text/html; charset=utf-8
+10:08:46 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+10:08:46 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+10:08:47 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+10:08:47 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1224.95ms
+10:08:47 [Information] CorrelationId:  Message: Request finished in 1227.2283ms 200 text/html; charset=utf-8
+10:10:04 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+10:10:05 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+10:10:05 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+10:10:09 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+10:10:09 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3849.9489ms
+10:10:09 [Information] CorrelationId:  Message: Request finished in 4379.5624ms 200 text/html; charset=utf-8
+10:10:12 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+10:10:12 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+10:10:13 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+10:10:13 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1142.9317ms
+10:10:13 [Information] CorrelationId:  Message: Request finished in 1145.9144ms 200 text/html; charset=utf-8
+10:11:16 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+10:11:17 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+10:11:17 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+10:11:20 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+10:11:21 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3909.2258ms
+10:11:21 [Information] CorrelationId:  Message: Request finished in 4470.277ms 200 text/html; charset=utf-8
+10:11:25 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+10:11:25 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+10:11:25 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+10:11:26 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1095.1952ms
+10:11:26 [Information] CorrelationId:  Message: Request finished in 1097.3206ms 200 text/html; charset=utf-8
+10:11:46 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+10:11:46 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+10:11:46 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+10:11:46 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 22.5074ms
+10:11:46 [Information] CorrelationId:  Message: Request finished in 23.1378ms 200 text/html; charset=utf-8
+10:14:07 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+10:14:08 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+10:14:08 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+10:14:11 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+10:14:12 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3913.5602ms
+10:14:12 [Information] CorrelationId:  Message: Request finished in 4466.8389ms 200 text/html; charset=utf-8
+10:14:24 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+10:14:24 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+10:14:24 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+10:14:25 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1101.9775ms
+10:14:25 [Information] CorrelationId:  Message: Request finished in 1104.3715ms 200 text/html; charset=utf-8
+10:17:21 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+10:17:22 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+10:17:22 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+10:17:25 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+10:17:26 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3891.7441ms
+10:17:26 [Information] CorrelationId:  Message: Request finished in 4419.7069ms 200 text/html; charset=utf-8
+10:18:03 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+10:18:03 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+10:18:04 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+10:18:04 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1125.3009ms
+10:18:04 [Information] CorrelationId:  Message: Request finished in 1127.7785ms 200 text/html; charset=utf-8
+10:19:42 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+10:19:43 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+10:19:44 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+10:19:47 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+10:19:47 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3680.1477ms
+10:19:47 [Information] CorrelationId:  Message: Request finished in 4263.1079ms 200 text/html; charset=utf-8
+10:19:55 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+10:19:55 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+10:19:56 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+10:19:56 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1147.8811ms
+10:19:56 [Information] CorrelationId:  Message: Request finished in 1150.0207ms 200 text/html; charset=utf-8
+10:21:46 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+10:21:47 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+10:21:48 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+10:21:51 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+10:21:51 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3845.4762ms
+10:21:51 [Information] CorrelationId:  Message: Request finished in 4413.4044ms 200 text/html; charset=utf-8
+10:21:54 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+10:21:54 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+10:21:55 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+10:21:55 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1161.9606ms
+10:21:55 [Information] CorrelationId:  Message: Request finished in 1164.2722ms 200 text/html; charset=utf-8
+10:22:33 [Information] CorrelationId:  Message: User profile is available. Using '"C:\Users\sheldonb\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+10:22:34 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/  
+10:22:34 [Information] CorrelationId:  Message: Executing action method "registration.Features.Home.HomeController.Index (registration)" with arguments (null) - ModelState is Valid
+10:22:37 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Home/Views/Index.cshtml".
+10:22:38 [Information] CorrelationId:  Message: Executed action "registration.Features.Home.HomeController.Index (registration)" in 3872.6882ms
+10:22:38 [Information] CorrelationId:  Message: Request finished in 4411.0668ms 200 text/html; charset=utf-8
+10:22:40 [Information] CorrelationId:  Message: Request starting HTTP/1.1 GET http://localhost:62553/Registration  
+10:22:40 [Information] CorrelationId:  Message: Executing action method "registration.Features.Registration.RegistrationController.Index (registration)" with arguments (null) - ModelState is Valid
+10:22:41 [Information] CorrelationId:  Message: Executing ViewResult, running view at path "/Features/Registration/Views/Index.cshtml".
+10:22:41 [Information] CorrelationId:  Message: Executed action "registration.Features.Registration.RegistrationController.Index (registration)" in 1198.7799ms
+10:22:41 [Information] CorrelationId:  Message: Request finished in 1201.6936ms 200 text/html; charset=utf-8

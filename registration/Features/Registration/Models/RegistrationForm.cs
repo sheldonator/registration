@@ -4,7 +4,7 @@ namespace registration.Features.Registration.Models
 {
     public class RegistrationForm
     {
-        public string Username { get; set; }
+        public string Email { get; set; }
         public string Password { get; set; }
     }
 
@@ -12,7 +12,7 @@ namespace registration.Features.Registration.Models
     {
         public RegistrationFormValidator()
         {
-            RuleFor(r => r.Username).NotNull();
+            RuleFor(r => r.Email).NotNull();
             RuleFor(r => r.Password).NotNull();
         }
     }

@@ -24,7 +24,7 @@ namespace registration.Features.Registration
         [HttpPost]
         public async Task<IActionResult> Validate(RegistrationForm request)
         {
-            var result = Zxcvbn.Zxcvbn.MatchPassword(request.Password, new List<string>{ request.Username });
+            var result = Zxcvbn.Zxcvbn.MatchPassword(request.Password, new List<string>{ request.Email });
             var count = await _ppService.PwnedPasswordCheck(request.Password.Sha1Hash());
             return View("Index", new RegistrationViewModel {PasswordStrengthResult = result, BreachCount = count});
         }
